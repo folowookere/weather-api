@@ -13,6 +13,7 @@ Parts of skeleton trimmed way way down
   position: relative;
   width: 100%;
   max-width: 960px;
+ 
   margin: 0 auto;
   padding: 0 20px;
   box-sizing: border-box; 
@@ -21,7 +22,7 @@ Parts of skeleton trimmed way way down
 .container_main {
   margin:0 auto;
   width:500px;
-  height:100vh;
+  height:70vh;
   max-width:100%;
 }
 
@@ -39,7 +40,7 @@ body {
   font-weight: 400;
   font-family: "Open Sans", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #fff;
-  background:#f4f4f4; }
+  background:#121212; }
   
 /* Typography
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
