@@ -1,3 +1,5 @@
+/* global $ */ 
+
 $(document).ready(function() {
      
     //Get location of user
