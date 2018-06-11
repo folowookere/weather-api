@@ -7,10 +7,12 @@ $(document).ready(function() {
         var latitude = location.coords.latitude;
         var longitude = location.coords.longitude;
         weather(latitude,longitude);
+        console.log("It worked.");
     }
     
     function error() {
         console.log("Error");
+        alert("Please enable your location services and refresh the page.");
     }
     
     function weather(latitude, longitude) {
